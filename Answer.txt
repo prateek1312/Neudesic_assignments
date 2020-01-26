@@ -1,0 +1,11 @@
+Tools to use git as GUI:
+Github Desktop
+Sourcetree
+SmartGit
+GitForce
+Giggle
+
+Origin: It is the source repository.
+Master: It is the name of the local branch.
+-u: sets local branch as remote tracking branch pull, fetch, push does not require any extra commands
+Pull: Used to fetch and merge from remote to local.
